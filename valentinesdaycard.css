@@ -43,7 +43,7 @@ body {
 
 .envelope .enveloper__card-text {
   padding: 15px 20px;
-  font-size: clamp(24px, 5vw, 38px);
+  font-size: 40px;
          /* ลดขนาดฟอนต์ลงจาก 42px */
   margin: 0;
   color: black;
